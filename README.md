@@ -1,2 +1,2 @@
-# Task
-Task
+ php artisan db:seed --class=AdminTableDataSeeder
+
